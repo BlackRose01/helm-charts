@@ -1,0 +1,6 @@
+dependencies:
+- name: mariadb
+  repository: https://cloudpirates-io.github.io/helm-charts
+  version: 0.10.1
+digest: sha256:f43e4a1a6caaef9d458cb8c2a0f4bb04bb574810ed75f065f231380ad157cce0
+generated: "2025-12-24T11:12:03.631204525+01:00"
